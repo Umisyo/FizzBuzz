@@ -1,7 +1,7 @@
 def main():
     i = 0
 
-    while i < 1000:
+    while i <= 1000:
 
         if i % 15 == 0:
             print(str(i) + 'FizzBuzz')
